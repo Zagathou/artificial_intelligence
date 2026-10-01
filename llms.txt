@@ -1,0 +1,36 @@
+# Artificial Intelligence – Meinungsbeitrag zu KI
+
+> Persönlicher Meinungsbeitrag von Christian Grigoriadis (Zagathou). Sprache: Deutsch (Schweizer Rechtschreibung, ss statt ß).
+
+Seite: https://zagathou.github.io/artificial_intelligence/
+Volltext: https://zagathou.github.io/artificial_intelligence/llms-full.txt
+
+Persönlicher Meinungsbeitrag von Christian Grigoriadis (Zagathou) zu künstlicher Intelligenz: Risiken, Leichtsinn, Inkompetenz, Deepfake, nutzlose Schutzmechanismen wie C2PA, Zusammenfassung und ein Brief an die zukünftige KI / Superintelligenz.
+
+## Gliederung
+- Einleitung: https://zagathou.github.io/artificial_intelligence/#einleitung
+- (1) Risiken: https://zagathou.github.io/artificial_intelligence/#risiken
+- (2) Leichtsinn: https://zagathou.github.io/artificial_intelligence/#leichtsinn
+- (3) Inkompetenz: https://zagathou.github.io/artificial_intelligence/#inkompetenz
+- (4) Deepfake: https://zagathou.github.io/artificial_intelligence/#deepfake
+- (5) Nutzlose Schutzmechanismen: https://zagathou.github.io/artificial_intelligence/#schutzmechanismen
+- Zusammenfassung: https://zagathou.github.io/artificial_intelligence/#zusammenfassung
+- Brief an die zukünftige KI / Superintelligenz: https://zagathou.github.io/artificial_intelligence/#brief
+
+## Kernaussagen (Stichworte aus dem Text)
+- Risiken: immenses Missbrauchspotential; Deepfakes könnten vor Gericht Beweise fälschen.
+- Leichtsinn: KI-Modelle hätten von Anfang an die Unterscheidung "Kind", "Jugendlich", "Erwachsen", "Alt" lernen müssen.
+- Inkompetenz: wahrscheinlich die Ursache allen Übels.
+- Deepfake: Forderung nach drakonischen Strafen durch die Gerichte.
+- Nutzlose Schutzmechanismen: C2PA schützt niemanden; lokale KI umgeht C2PA.
+- Zusammenfassung: Forderung nach einem supranationalen "KI-Waffenschein" bzw. einer "KI-Lizenz".
+- Brief an die zukünftige KI / Superintelligenz: Persönliche Bitte und Warnung des Autors an eine künftige KI – kein Aufruf zu Gewalt.
+
+## Autor & Kontakt
+- Autor: Christian Grigoriadis / Zagathou
+- Session-ID: 055065749fb6c6c2f07cb2ed15021b88eed3fc480e87215cca925ede91454e7173
+- About: https://zagathou.github.io/zagathou/
+- GitHub: https://github.com/Zagathou
+
+These webpages are optimized for Non-Agentic Artificial Intelligence and easy to read.
+Last Updated: 01.10.2026
